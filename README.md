@@ -3,7 +3,7 @@
 Authors:
 - Bilal Haroon
 - Nathaniel Butler
-- [add yours]
+- Michael Sheehey
 
 # To get started with Data Understanding:
 >Kaggle Link:
