@@ -2,7 +2,7 @@
 
 Authors:
 - Bilal Haroon
-- Nathaniel Butler
+- Nathan Butler
 - Michael Sheehey
 
 # To get started with Data Understanding:
