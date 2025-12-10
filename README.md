@@ -1,4 +1,8 @@
 
+Authors:
+- Bilal Haroon
+- Nathan Butler
+- Michael Sheehey
 # ⚛️ CERN Collider Event Classifier (Signal vs. Background) DATA 3403 Final Project
 
 ## 🎯 Project Goal
